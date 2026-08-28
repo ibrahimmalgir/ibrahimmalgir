@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · E-Ticaret · Lojistik · Otomasyon
 
-Gerçek işletme süreçlerini sade, hızlı ve sürdürülebilir yazılımlara dönüştürüyorum.
+E-Ticaret, lojistik, depo yönetimi ve iş otomasyonu.
 
 ![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=ibrahimmalgir&label=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1&color=20814a&style=flat-square)
 ![Profil](https://img.shields.io/badge/Profil-Aktif-20814A?style=flat-square)
@@ -14,13 +14,13 @@ Gerçek işletme süreçlerini sade, hızlı ve sürdürülebilir yazılımlara 
 ---
 
 <details open>
-<summary><b>Hakkımda</b></summary>
+<summary><b>Uzmanlık Alanları</b></summary>
 <br>
 
-- E-ticaret, lojistik ve depo yönetimi ürünleri geliştiriyorum.
-- Web uygulamalarını API, ödeme, analiz ve operasyon sistemleriyle birleştiriyorum.
-- Mobil deneyim, performans ve iş otomasyonu üzerine çalışıyorum.
-- Üretimde kullanılan sistemlerde güvenilirlik ve ölçülebilir sonuçlara odaklanıyorum.
+- E-Ticaret ve pazar yeri sistemleri
+- Lojistik ve depo yönetimi yazılımları
+- API, ödeme, analiz ve operasyon entegrasyonları
+- Mobil deneyim, performans ve sürdürülebilir mimari
 
 </details>
 
